@@ -1,4 +1,9 @@
 #INPUT FROM USER
+'''
+TITLE : INPUT FROM USER IN PYTHON
+OWNER : MOHD RAZA MOHD RAFIQUE
+DATE  : 27/10/2022
+'''
 
 # In this program we will take the input from user.
 
@@ -25,3 +30,10 @@ print("After using float() function your input is of ",type(no2),"type")
 
 # In python there is no character data type. A character is also string 
 # of length one.
+
+
+'''
+ABOUT MY YOUTUBE CHANNEL
+NAME : MR SQUARE
+LINK : https://www.youtube.com/channel/UCFQ-C2iL9J9cbE0X1fawH_w
+'''
