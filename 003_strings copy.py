@@ -10,8 +10,6 @@ DATE  : 27/10/2022
 # single and double quotes are use for single line string.
 s1 = 's1 is single line string in single quotes.'
 s2 = "s2 is single line string in double quotes."
-
-# Let's print both strings on screen.
 print(s1)
 print(s2)
 
@@ -26,27 +24,26 @@ s3 is multi line string in single quotes.
 '''
 
 s4 = """
-WELCOME TO MY CHANNEL.
-LIKE,SHARE AND SUBSCRIBE.
+If you see my codes are helpful
+Please follow me on gitgub.
+You can also follow me on youtube.
 s4 is multi line string in double quotes.
 """
-
-# Let's print both strings on screen.
 print(s3)
 print(s4)
 
 # string with single or double quotes.
 s5 = ''' "s5" is string with 'single and double' quotes in single triple quotes. '''
 s6 = """ "s6" is string with 'single and double' quotes in double triple quotes. """
-
-# Let's print both strings on screen.
 print(s5)
 print(s6)
 
-# SLICING AND INDEXING IN STRING
 
-# Indexing is used to obtain individual elements of string.
-# Slicing is used to obtain a sequence of elements of string.
+'''
+SLICING AND INDEXING IN STRING
+Indexing is used to obtain individual elements of string.
+Slicing is used to obtain a sequence of elements of string.
+'''
 
 s7 = 'HELLO GUYS WELCOME TO MY CHANNEL MR SQUARE'
 
@@ -77,13 +74,13 @@ print(s7[:6:3])
 
 
 # STRING AS A SUBSTRING OF ANOTHER STRING
-print("SUBSTRING OF ANOTHER OF STRIGN")
+print("SUBSTRING OF ANOTHER STRING")
 
 s8 = input("Enter first string::")
 s9 = input("Enter second string::")
 
 # Now to check whether any string is substring of another string or not.
-# WE will use in operator.
+# We will use in operator.
 
 if s8 in s9:
     print("First string is substring of second string.")
@@ -95,7 +92,6 @@ else:
 '''
 NOTES :
 1. In python strings are immutable.
-2. In python there is no switch case statements concept.
 '''
 
 '''
